@@ -1,0 +1,13 @@
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\bin\Debug\omgtoomuch.exe.config
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\bin\Debug\omgtoomuch.exe
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\bin\Debug\omgtoomuch.pdb
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\obj\Debug\omgtoomuch.csprojResolveAssemblyReference.cache
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\obj\Debug\omgtoomuch.Form1.resources
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\obj\Debug\omgtoomuch.Properties.Resources.resources
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\obj\Debug\omgtoomuch.csproj.GenerateResource.Cache
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\obj\Debug\omgtoomuch.exe
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\obj\Debug\omgtoomuch.pdb
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\bin\Debug\omgtoomuch.exe.manifest
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\bin\Debug\omgtoomuch.application
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\obj\Debug\omgtoomuch.exe.manifest
+c:\users\federico\documents\visual studio 2013\Projects\omgtoomuch\obj\Debug\omgtoomuch.application
