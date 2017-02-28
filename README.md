@@ -1,4 +1,4 @@
-# Overwiev
+# Overview
 Hi guys, this is "Omg_too_much" a very small tool to check the RAM usage on the PC.
 
 I think the simpliest way to show an information is the graphical way.
